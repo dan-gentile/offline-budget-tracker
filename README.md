@@ -17,7 +17,7 @@
 
 
 ### General info
-This budget app allows you to Add transactions, both income and expenditures. The budget tracker is also a progressive app that will allow the user to use the app offline. This is built with service-worker. In addition any work that is created offline will be posted to the database once the application is back online using indexDB. 
+This budget app allows you to Add transactions, both income and expenditures. The budget tracker is also a progressive app that will allow the user to use the app offline. This is built with service-worker. In addition any work that is created offline will be posted to the database once the application is back online using indexedDB. 
 
 
 Web Link: <https://budget-tracker-2105.herokuapp.com/>
